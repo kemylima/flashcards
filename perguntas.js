@@ -1,15 +1,15 @@
 criaCartao(
-'promagração'  ,
-'O que JavaScript',
-'Linguagem de promagração',
+    'progração',
+    'O que JavaScript',
+    'Linguagem de progração',
 )
 criaCartao(
-'inglês',
-'como se escreve dia do pagamento?',
-'Pay day',
+    'inglês',
+    'como se escreve dia do pagamento?',
+    'Pay day',
 )
 criaCartao(
-'Matemática',
-'Qual gráfico da função quadrática?',
-'Parábola',
+    'Matemática',
+    'Qual gráfico da função quadrática?',
+    'Parábola',
 )
